@@ -5,11 +5,11 @@
 #### 专业：计算机技术
 #### 学校：西南交通大学
 #### 邮箱：schen1998@foxmail.com
-
+###
 ### 研究方向
-- 形式化验证
-- SAT求解器
+#### 形式化验证
+#### SAT求解器
 
 ### 掌握技能
-- 编程语言c、c#、python
-- 熟练使用Visual Studio
+#### 编程语言c、c#、python
+#### 熟练使用Visual Studio
