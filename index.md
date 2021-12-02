@@ -7,9 +7,9 @@
 #### 邮箱：schen1998@foxmail.com
 
 ### 研究方向
-#### 形式化验证
-#### SAT求解器
+#### 形式化验证（Formal Method）
+
 
 ### 掌握技能
-#### 编程语言c、c#、python
+#### 编程语言c、python
 #### 熟练使用Visual Studio
