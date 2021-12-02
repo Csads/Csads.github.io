@@ -12,4 +12,4 @@
 
 ### 掌握技能
 #### 编程语言c、python
-#### 熟练使用Visual Studio
+#### 熟练使用Visual Studio等工具
