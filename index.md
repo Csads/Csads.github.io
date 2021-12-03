@@ -8,12 +8,13 @@
 
 
 ### 研究方向
--形式化验证（Formal Method）
+·形式化验证（Formal Method）
 
 
 ### 掌握技能
--编程语言c、python
--熟练使用Visual Studio等工具
+·编程语言c、python
+
+·熟练使用Visual Studio等工具
 
 ![](https://visitor-badge.glitch.me/badge?page_id=csads)
 
