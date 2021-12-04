@@ -16,7 +16,7 @@
 
 ●熟练使用Visual Studio等工具
 
-![](https://visitor-badge.glitch.me/badge?page_id=csads)
+
 
   [1]: https://faculty.swjtu.edu.cn/KeMing_Wang/zh_CN/index.htm
   [2]: https://www.swjtu.edu.cn/
